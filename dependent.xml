@@ -5,7 +5,7 @@
 		<echo> hello iideploy</echo>
 	</target>
 	<target name="package" depends="compile">
-		<echo>hello package</echo>
+		<echo>hello pjjjjackage</echo>
 	</target>
 	<target name="compile" depends="clean">
 		<echo> hello compile </echo>
