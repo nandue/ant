@@ -2,7 +2,7 @@
 <project name="test" default="deploy">
 
 	<target name="deploy" depends="clean,package">
-		<echo> hello deploy</echo>
+		<echo> hello iideploy</echo>
 	</target>
 	<target name="package" depends="compile">
 		<echo>hello package</echo>
